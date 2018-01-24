@@ -7,6 +7,6 @@
 This project can be modified by everyone to create new levels, new traps, etc. 
 Do not hesitate to make a pull request with your new levels, traps,..
 	
-	## Pictures
+## Pictures
 	
-	![dead](Readme_picture/readme_img1.png)
+![dead](Readme_picture/readme_img1.png)
